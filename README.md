@@ -1,6 +1,8 @@
-🌿 NutryStudy
+<div align="center">🌿 NutryStudy
 
-«Estude. Revise. Evolua.»
+Plataforma web para auxílio, gerenciamento e acompanhamento de estudos e nutrição. </div>
+
+---
 
 O NutryStudy é uma plataforma web de organização acadêmica desenvolvida para tornar o processo de estudo mais simples, visual e consistente.
 
@@ -42,9 +44,6 @@ O principal objetivo do NutryStudy é ajudar estudantes a:
 A proposta é transformar o estudo em um processo mais visual, organizado e sustentável.
 
 ---
-
-🚀 Funcionalidades
-
 📚 Gerenciamento de estudos
 
 É possível cadastrar novos estudos informando:
@@ -58,18 +57,11 @@ A proposta é transformar o estudo em um processo mais visual, organizado e sust
 Os estudos são automaticamente adicionados à rotina de acompanhamento.
 
 ---
-🛠️ Tecnologias
+## 🛠️ Tecnologias
 
-O projeto foi desenvolvido utilizando:
-
-Tecnologia| Utilização
-⚛️ React| Construção da interface
-📘 TypeScript| Tipagem e desenvolvimento
-⚡ Vite| Desenvolvimento e build
-🎨 Tailwind CSS| Estilização
-🧩 Lucide React| Ícones
-💾 LocalStorage| Persistência dos estudos
-🌐 Vercel| Deploy da aplicação                    
+- **Frontend:** HTML5, CSS3, JavaScript
+- **Backend / Database:** *(Adicione aqui, ex: Node.js, Express, PostgreSQL)*
+- **Ferramentas:** Git, GitHub
 ---
 
 👨‍💻 Desenvolvedor
